@@ -2,6 +2,7 @@ UV CAMS Data visualization
 ==================
 
 A simple grib data visualization with python.
+
 Data used are freely distributed by Copernicus Atmosphere Monitoring Service [CAMS](https://atmosphere.copernicus.eu/).
 
 CAMS is part of the [Copernicus Programme](http://www.copernicus.eu/) coordinated by the European Commission and it offers information and services freely and openly to all.
@@ -28,6 +29,9 @@ CAMS, in particular, provides data and services regarding:
 you can reproduce the jupyter code locally following these steps:
 
 `git clone https://github.com/Randbee/Copernicus_UV_data.git`
+
 open your kernel (`Ctrl + T`)
+
 run `jupyter notebook`
+
 you will see jupyter running on your browser on localhost and you can execute the code.
